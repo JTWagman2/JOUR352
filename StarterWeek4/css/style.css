@@ -1,0 +1,70 @@
+body {
+  background-color:#ffffff;
+}
+h1 {color: #213172; 
+font-family: "Quantico", sans-serif;
+  font-weight: 900;
+  font-style: normal;}
+
+h2 {color: #213172;
+font-family: "Quantico", sans-serif;}
+
+h3 {font-family: "Quantico", sans-serif;}
+
+p {color: #000000;
+
+font-family: "Oswald", sans-serif;}
+
+.leadGraph {background-color:#D9C80F; color: #000000; font-weight: bold; font-size: 1.24rem; padding: 20px;}
+
+.leadPhoto {margin: 30px 40px 600px 40px; float:right;}
+
+a {color: #f70E0E; text-decoration: none;}
+a:hover {color: #666666; text-decoration: underline;}
+
+.headerBox {
+background-color: #0FB0D9;
+text-align: center;
+padding: 20px;
+
+}
+
+.mainBody {
+  background-color: #D90F56;
+  padding: 10px;
+  display: flex;
+  gap:20px
+  align-item: flex-start;
+}
+
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.quantico-regular {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quantico-bold {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.quantico-regular-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quantico-bold-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
