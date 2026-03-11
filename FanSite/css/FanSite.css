@@ -1,0 +1,133 @@
+body {
+  background-color:#ffffff;
+}
+
+img {
+  width: 800px;
+  height: auto;
+}
+
+.headerBox {
+  background-color: #241773;
+  text-align: center;
+  padding: 15px;
+}
+
+.HighSchool {
+  background-color: black;
+  text-align: center;
+  padding: 15px;
+}
+
+.College {
+  background-color: #241773;
+  text-align: center;
+  padding: 15px;
+}
+
+.NFL {
+  background-color: black;
+  text-align: center;
+  padding: 15px;
+}
+
+table {
+  margin: 40px auto;      
+  border-collapse: collapse;
+  width: 60%;
+  color: white;
+  font-family: "Quantico", sans-serif;
+}
+
+th, td {
+  border: 2px solid #9E7C0C;   
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #000000
+  color: #9E7C0C;
+}
+
+.SocialsPhotoCreds {
+  background-color: #9E7C0C;
+  padding: 15px;
+}
+
+h1 {
+  color: #9E7C0C ;
+   font-family: "Tourney", sans-serif;
+}
+
+h2 {
+  color: #ffffff;
+   font-family: "Tourney", sans-serif;
+}
+
+h3 {
+  color:#9E7C0C;
+  font-family: "Keania One", sans-serif;
+  font-size: 2em;
+}
+
+h4 {
+  color:#9E7C0C;
+  font-family: "Keania One", sans-serif;
+}
+
+p {color: #ffffff;
+  font-family: "Quantico", sans-serif;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+ul {
+  color: #ffffff;
+  font-family: "Quantico", sans-serif;
+  list-style-position: inside;
+  padding-left: 0;
+  text-align: center;
+}
+
+
+
+.quantico-regular {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quantico-bold {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.quantico-regular-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quantico-bold-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.keania-one-regular {
+  font-family: "Keania One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.tourney-<uniquifier> {
+  font-family: "Tourney", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}

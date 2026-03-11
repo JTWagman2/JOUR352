@@ -1,0 +1,89 @@
+body {
+  background-color:#ffffff;
+}
+
+.headerBox {
+  background-color: #241773;
+  text-align: center;
+  padding: 15px;
+}
+
+.HighSchoolHighlights {
+  background-color: black;
+  text-align: center;
+  padding: 15px;
+}
+
+.CollegeHighlights {
+  background-color: #241773;
+  text-align: center;
+  padding: 15px;
+}
+
+.NFLHighlights {
+  background-color: black;
+  text-align: center;
+  padding: 15px;
+}
+
+.HomePage {
+  background-color: #9E7C0C;
+  text-align: center;
+  padding: 15px;
+}
+
+h1 {
+  color: #9E7C0C ;
+   font-family: "Tourney", sans-serif;
+}
+
+h2 {
+  color: #ffffff;
+   font-family: "Tourney", sans-serif;
+}
+
+h3 {
+  color:#9E7C0C;
+  font-family: "Keania One", sans-serif;
+  font-size: 2em;
+}
+
+.quantico-regular {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quantico-bold {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.quantico-regular-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quantico-bold-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.keania-one-regular {
+  font-family: "Keania One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.tourney-<uniquifier> {
+  font-family: "Tourney", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
