@@ -1,0 +1,177 @@
+/* GOOGLE FONTS CSS CODE */
+
+.quantico-regular {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quantico-bold {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.quantico-regular-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quantico-bold-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.keania-one-regular {
+  font-family: "Keania One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.contrail-one-regular {
+  font-family: "Contrail One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-flex {
+  font-family: "Roboto Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "XOPQ" 96,
+    "XTRA" 468,
+    "YOPQ" 79,
+    "YTAS" 750,
+    "YTDE" -203,
+    "YTFI" 738,
+    "YTLC" 514,
+    "YTUC" 712;
+}
+
+h1 {
+     font-family: "Contrail One", sans-serif;
+     font-weight: 700;
+     color: #ffffff;
+}
+
+h3 {
+    font-family: "Contrail One", sans-serif;
+     font-weight: 700;
+     color: #ffffff;
+} 
+
+h5 {
+    font-family: "Contrail One", sans-serif;
+     font-weight: 700;
+     color: #ffffff;
+}
+
+h6 {
+    font-family: "Contrail One", sans-serif;
+     font-weight: 700;
+     color: #ffffff;
+}
+
+.header {
+     font-family: "Contrail One", sans-serif;
+     font-weight: 700;
+     padding: 5px;
+     margin: 10px 0px 10px 0px;
+    background-color: #2424CC;
+    color: #ffffff;
+    
+}
+
+.leadImage {
+    font-family: "Quantico", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    background-color: #6565A2;
+    padding: 10px;
+}
+
+.leadImage img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.leadImage p {
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+    font-size: small;
+}
+
+.map {
+    font-family: "Quantico", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    position: relative;
+    padding: 10px;
+}
+
+.map iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3;
+    display: block;
+}
+
+.mainBody {
+    font-family: "Roboto Flex", sans-serif;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #5F5F78;
+    color: #ffffff;
+}
+
+.mediaElements {
+    font-family: "Quantico", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: x-small;
+    text-align: center; 
+    background-color: #6565A2;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.mediaElements img,
+.mediaElements p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.video {
+    font-family: "Quantico", sans-serif;
+    padding:20px 10px 20px 10px;
+    background-color: #6565A2;
+    text-align: center;
+}
+
+.video iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+.styles {
+    background-color: #6565A2;
+    color:#ffffff
+}
+
+.simpson {
+    background-color: #6565A2;
+    color:#ffffff
+}
