@@ -1,0 +1,83 @@
+body {
+    background-color:#000000
+}
+
+h1 {
+    font-family: "Keania One", sans-serif;
+}
+
+h2 {
+    font-family: "Keania One", sans-serif;
+}
+
+p {
+    font-family: "Contrail One", sans-serif;
+}
+
+.header {
+    background-color: #DF4601;
+    border: 2px solid #000000;
+    color: #000000;
+    text-align: center;
+    font-family: "Keania One", sans-serif;
+}
+
+.headshots {
+    background-color: #000000;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+}
+
+.careerPath {
+    background-color: #DF4601;
+    border: 2px solid #000000;
+    color: #000000;
+}
+
+.timeline {
+    background-color: #000000;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+}
+
+.quantico-regular {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quantico-bold {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.quantico-regular-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quantico-bold-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.keania-one-regular {
+  font-family: "Keania One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.contrail-one-regular {
+  font-family: "Contrail One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rubik-80s-fade-regular {
+  font-family: "Rubik 80s Fade", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
