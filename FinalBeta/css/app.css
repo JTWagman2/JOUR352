@@ -1,0 +1,218 @@
+body {
+    background-color: #000000
+}
+
+.stack-sans-notch {
+  font-family: "Stack Sans Notch", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.ibm-plex-serif-thin {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.ibm-plex-serif-extralight {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.ibm-plex-serif-light {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.ibm-plex-serif-regular {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ibm-plex-serif-medium {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ibm-plex-serif-semibold {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.ibm-plex-serif-bold {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.ibm-plex-serif-thin-italic {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.ibm-plex-serif-extralight-italic {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.ibm-plex-serif-light-italic {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.ibm-plex-serif-regular-italic {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.ibm-plex-serif-medium-italic {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.ibm-plex-serif-semibold-italic {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.ibm-plex-serif-bold-italic {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+.mozilla-text {
+  font-family: "Mozilla Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.noto-sans {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+h1 {
+    font-family: "Stack Sans Notch", sans-serif;
+}
+
+h3 {
+    font-family: "Stack Sans Notch", sans-serif;
+}
+
+a:link { color: #ffffff; }
+
+a:visited { color: #ffffff; }
+
+a:hover { color: #c8102e }
+
+.title {
+    font-family: "Noto Sans", sans-serif;
+    background-color: #c8102e;
+    color: #ffffff;
+    border: 2px solid #FFd200;
+    padding: 10px;
+}
+
+.FirstBody {
+    background-color: #ffffff;
+    font-family: "Mozilla Text", sans-serif;
+    color: #222222;
+    padding: 10px;
+}
+
+.Arrival {
+    background-color: #ffffff;
+    font-family: "Mozilla Text", sans-serif;
+    color: #222222;
+    padding: 10px;
+}
+
+.Martin2023 {
+    background-color: #000000;
+    border: 2px solid #FFd200;
+    font-family: "Noto Sans", sans-serif;
+    color: #ffffff;
+    padding: 10px 10px 1px 10px;
+    font-size: smaller
+}
+
+.SecondBody {
+    background-color: #ffffff;
+    font-family: "Mozilla Text", sans-serif;
+    color: #222222;
+    padding: 10px;
+}
+
+.StreakVid {
+    background-color: #000000;
+    border: 2px solid #FFd200;
+    font-family: "Noto Sans", sans-serif;
+    color: #ffffff;
+    padding: 10px 10px 1px 10px;
+    font-size: smaller;
+}
+
+.BaseStreak {
+    background-color: #ffffff;
+    font-family: "Mozilla Text", sans-serif;
+    color: #222222;
+    padding: 10px;
+}
+
+.ThirdBody {
+    background-color: #ffffff;
+    font-family: "Mozilla Text", sans-serif;
+    color: #222222;
+    padding: 10px;
+}
+
+.Walks {
+    background-color: #ffffff;
+    font-family: "Mozilla Text", sans-serif;
+    color: #222222;
+    padding: 10px;
+}
+
+.WalksGraph {
+    background-color: #ffffff;
+    border: 2px solid #FFd200;
+    font-family: "Noto Sans", sans-serif;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.FourthBody {
+    background-color: #ffffff;
+    font-family: "Mozilla Text", sans-serif;
+    color: #222222;
+    padding: 10px;
+}
+
+.Links {
+    background-color: #000000;
+    border: 2px solid #FFd200;
+    color: #FFd200;
+    font-family: "Noto Sans", sans-serif;
+    padding: 10px;
+}
+
